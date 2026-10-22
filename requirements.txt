@@ -1,0 +1,3 @@
+   stanza==1.15.0
+   conllu
+   torch
